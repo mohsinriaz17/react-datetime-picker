@@ -10,7 +10,7 @@ A datetime picker for your React app.
 * No moment.js needed
 
 ## tl;dr
-* Install by executing `npm install react-datetime-picker` or `yarn add react-datetime-picker`.
+* Install by executing `npm install --save https://github.com/mohsinriaz17/react-datetime-picker` or `yarn add react-datetime-picker`.
 * Import by adding `import DateTimePicker from 'react-datetime-picker'`.
 * Use by adding `<DateTimePicker />`. Use `onChange` prop for getting new values.
 
